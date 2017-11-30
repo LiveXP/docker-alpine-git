@@ -1,6 +1,6 @@
 # Docker alpine git [![Build Status](https://travis-ci.org/LiveXP/docker-alpine-git.svg?branch=master)](https://travis-ci.org/LiveXP/docker-alpine-git)
 
-Docker alphine image with git built-in.
+Docker image based on alpine with git built-in.
 
 ## Usage
 
